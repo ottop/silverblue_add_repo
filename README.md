@@ -1,6 +1,9 @@
 # Add third party repositories to Fedora Silverblue
 A simple script for adding third party repositories to Fedora Silveblue.
 
+## Requirements
+- wget (can be installed with `rpm-ostree install wget`)
+
 ## Usage
 1. Clone the repository: `git clone git@github.com:ottop/silverblue_add_repo.git`
 2. Enter the directory: `cd silverblue_add_repo`
